@@ -1,4 +1,4 @@
-# server-init
+# server-node-init  2024
 
 Este proyecto es una API REST construida con Node.js y Express. La API incluye autenticación JWT, validación de datos, manejo de errores y conexión a una base de datos MongoDB.
 
