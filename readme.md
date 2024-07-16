@@ -51,7 +51,7 @@ Es la base / inicializacion para proyectos futuros.
 
    ```sh
    git clone <URL_DEL_REPOSITORIO>
-   cd ch-server-init
+   
 
    ```
 
